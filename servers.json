@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{ 
+  "name": "Eating Hwa's Server",
+  "address": "https://dinis-anisette-server.onrender.com"
 }
